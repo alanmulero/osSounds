@@ -1,0 +1,31 @@
+body{
+  background-image: linear-gradient(to right, rgb(202, 228, 202),rgb(214, 214, 182),rgb(243, 223, 196),rgb(185, 119, 119));
+}
+h1{
+  text-align: center;
+  color: RosyBrown;
+  text-shadow: 1px 1px white;
+  margin-top: 5%;
+}
+.botoes{
+  background-image: linear-gradient(to right, rgb(165, 133, 133),rgb(209, 209, 123),rgb(204, 158, 98),rgb(240, 255, 240));
+  width:50%;
+  height:100px;
+  padding: 50px 0px 0px 40px;
+  margin: auto;
+  margin-top: 35px;
+  border:solid 2px rgb(139, 80, 83);
+
+}
+button{
+  margin: 10px;
+  margin-left: 80px;
+  border: white;
+  background-color: AntiqueWhite;
+  padding: 5px;
+  color: RosyBrown;
+
+}
+button:hover{
+  color: red;
+}
